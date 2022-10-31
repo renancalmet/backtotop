@@ -1,6 +1,6 @@
 {
   "name": "backtotop",
-  "version": "1.0.0",
+  "version": "0.0.7",
   "description": "A back-to-top simple js button.",
   "main": "index.js",
   "scripts": {
