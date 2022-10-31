@@ -1,6 +1,6 @@
 {
-  "name": "backtotop",
-  "version": "0.0.7",
+  "name": "rc-backtotop",
+  "version": "0.0.8",
   "description": "A back-to-top simple js button.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "to",
     "top",
     "backtotop",
-    "button"
+    "button",
+    "rc-backtotop"
   ],
   "author": "Renan Calmet",
   "license": "GPL-3.0",
