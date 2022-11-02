@@ -30,4 +30,6 @@ The class parameters are :
 
 ## TODO
 
-Add positioning parameters and stylize appearance/disappearance.
+* Add positioning parameters
+* Stylize appearance/disappearance
+* Make it a real node module by `default export`ing the class + making a `dist/backtotop.js` following [this tutorial](https://hackernoon.com/use-es6-javascript-syntax-require-import-etc-in-your-front-end-project-5eefcef745c2)

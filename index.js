@@ -1,4 +1,4 @@
-class backToTop {
+class BackToTop {
     constructor(showOnPx = 700, selector = '#btn-back-to-top') {
         this.showOnPx = showOnPx;
         this.selector = selector;
